@@ -1,2 +1,2 @@
 # laboratorio-git-01
-lab1 software
+Esto es una presentacion personal mia acerca de Joseph Martinez de 20 años, soltero y con muchas ganas de dormir
